@@ -1,6 +1,6 @@
 # SQLAlchemy Challenge: Surf's Up!
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_YryYjOrkuljjYeIKy56p3tlDk7jszaRJiBI624NsCqZ8JLdfo8uV2CKWIPXaH05H4fw&usqp=CAU" alt="Crowdfunding Project Analysis" style="width: 100%; height: auto;">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_YryYjOrkuljjYeIKy56p3tlDk7jszaRJiBI624NsCqZ8JLdfo8uV2CKWIPXaH05H4fw&usqp=CAU" style="width: 100%; height: auto;">
 
 ***
 ## Background
